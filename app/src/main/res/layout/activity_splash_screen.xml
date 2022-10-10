@@ -5,7 +5,7 @@
     android:id="@+id/bkgSplashScreen"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/peakpx"
+    android:background="@drawable/gradientviolet"
     tools:context=".SplashActivity">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Welcome"
-        android:textColor="@color/design_default_color_secondary_variant"
+        android:textColor="@color/purple_700"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
